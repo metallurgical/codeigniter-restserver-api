@@ -7,7 +7,7 @@ require APPPATH.'/libraries/REST_Controller.php';
  * Used with phil sturgeon library = codeigniter-resetserver
  * 
  * @category   models
- * @package    api_model.php
+ * @package    api.php
  * @author     aa6my <aa6my@qq.com> @ aam6my
  * @author     Norlihazmey <norlihazmey89@gmail.com> @metallurgical
  * @license    https://ellislab.com/codeigniter/user-guide/license.html
@@ -303,5 +303,5 @@ class Api extends REST_Controller
 
 }
 
-/* End of file welcome.php */
-/* Location: ./application/controllers/welcome.php */
+/* End of file api.php */
+/* Location: ./application/controllers/api.php */
