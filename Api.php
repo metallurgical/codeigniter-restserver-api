@@ -8,10 +8,10 @@ require APPPATH.'/libraries/REST_Controller.php';
  * 
  * @category   models
  * @package    api.php
- * @author     aa6my <aa6my@qq.com> @ aam6my
+ * @author     aa6my <aa6my@qq.com> @ aa6my
  * @author     Norlihazmey <norlihazmey89@gmail.com> @metallurgical
  * @license    https://ellislab.com/codeigniter/user-guide/license.html
- * @copyright  2014
+ * @copyright  2015
 */
 
 class Api extends REST_Controller
